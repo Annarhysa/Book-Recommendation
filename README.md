@@ -1,4 +1,4 @@
-# Book-Recommendation
+# Book Recommendation System
 Exploring recommendation systems through Books and Python
 
 Building a Hybrid Recommendation System using the following:
