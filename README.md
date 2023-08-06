@@ -16,10 +16,10 @@ Hybrid recommendation systems have two predominant designs, parallel and sequent
 
 ## The Hybrid Recommendation System built by me uses the following sub-systems:
 
-### a) Collaborative Filtering System <br>
+<b>a) Collaborative Filtering System </b><br>
 This recommends items based on similarity measures between users and/or items. The basic assumption behind the algorithm is that users with similar interests have common preferences.
 
-### b) Content Based Filtering System <br>
+<b>b) Content Based Filtering System </b> <br>
 It is supervised machine learning used to induce a classifier to discriminate between interesting and uninteresting items for the user.
 
 
