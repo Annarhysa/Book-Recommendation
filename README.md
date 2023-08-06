@@ -21,3 +21,7 @@ This recommends items based on similarity measures between users and/or items. T
 
 ### b) Content Based Filtering System <br>
 It is supervised machine learning used to induce a classifier to discriminate between interesting and uninteresting items for the user.
+
+In the final cell user can input their choice of book with a relevant book_id and the output will be all the books named after that book_id, as there could be multiple authors and publisher's for the same book.
+
+The books would be rated on the scale of 10. As this is a recommendation system, for future use cases the features can be replaced with actual details of the books.
